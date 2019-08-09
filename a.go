@@ -16,3 +16,6 @@ func second() {
 	fmt.Println("Another")
 }
 
+func newFunc() {
+	fmt.Println("word")
+}
