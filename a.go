@@ -18,4 +18,5 @@ func second() {
 
 func newFunc() {
 	fmt.Println("word")
+	fmt.Println("More")
 }
