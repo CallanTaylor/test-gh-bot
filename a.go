@@ -12,3 +12,7 @@ func new_func() {
 	fmt.Println("Hello")
 }
 
+func second() {
+	fmt.Println("Another")
+}
+
