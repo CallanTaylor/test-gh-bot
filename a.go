@@ -20,3 +20,7 @@ func newFunc() {
 	fmt.Println("word")
 	fmt.Println("More")
 }
+
+func thisOne() {
+	fmt.Println("Words")
+}
