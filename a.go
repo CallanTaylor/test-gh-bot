@@ -8,7 +8,7 @@ func main() {
 	fmt.Println("Hello")
 }
 
-func new_func() {
+func different() {
 	fmt.Println("Hello")
 }
 
