@@ -24,3 +24,7 @@ func newFunc() {
 func thisOne() {
 	fmt.Println("Words")
 }
+
+func andThat() {
+	fmt.Println("Here")
+}
